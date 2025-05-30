@@ -4,9 +4,9 @@ dist/
 *.log
 
 # Reports and builds
-*.html
-test-report/
-coverage/
+#*.html
+#test-report/
+#coverage/
 
 # IDE files
 .vscode/
